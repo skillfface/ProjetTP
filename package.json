@@ -1,0 +1,20 @@
+{
+  "name": "ProjetTP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"It Works Already\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skillfface/ProjetTP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skillfface/ProjetTP/issues"
+  },
+  "homepage": "https://github.com/skillfface/ProjetTP#readme"
+}
